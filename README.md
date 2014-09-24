@@ -15,5 +15,9 @@ This will produce the update site for the plug-in in the folder `de.prob2.update
 ## Bugs 
 Because of a bug in Eclipse, ProB 2.0 crashes on some Linux systems after using it for about 3 minutes. We hope, that this issue will be fixed when Rodin switches to Eclipse 4.x (planned for Rodin 3.1).
 
+## Setup Development Environment
+Import all projects to Eclipse
+Set target platform to de.prob2.rodin3.target/rodin3.target
+
 
 (c) 2014 Jens Bendisposto et.al. , all rights reserved
